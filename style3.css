@@ -1,20 +1,26 @@
 
 h1{ text-align: center;}
 
-.georgina_style {background: white;
+.georgina_style {background: transparent;
 }
-.card {
-    /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;}
 
-    .imagesize {height: 100; }
+
+    .imagesize {height: 75; }
 
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
 .navbar {
-    color: transparent;
-    background-color: pink;
+    color: white;
+    background-color: transparent;
 }
+
+.text-center {text-align:center;}
+
+a {color:white;}
+
+body{ color:white;}
+body {font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;}
+
+.img-circle {height:250;}
